@@ -1,0 +1,9 @@
+// Example
+var ourName ="freecodecamp";
+var ourStr = "Hello, our name is" + ourName + ", How are you?";
+
+
+// Only change code below this line
+var myName ="Beau";
+var myStr = "My name is" + myName + "And I am well!";
+console.log(myStr);
